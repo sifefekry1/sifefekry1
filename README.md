@@ -13,7 +13,7 @@
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>🎓 Computer Science Student</li>
+  <li>🎓 Information Systems Student</li>
   <li>📊 Specialized in Data Analysis</li>
   <li>💻 Passionate about Programming</li>
   <li>📣 Interested in Marketing</li>
