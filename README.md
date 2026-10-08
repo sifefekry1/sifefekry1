@@ -50,15 +50,7 @@
 
 ---
 
-<h2>📣 Marketing</h2>
 
-<p>
-  🔹 Digital Marketing<br>
-  🔹 Marketing Analysis<br>
-  🔹 Social Media Marketing<br>
-  🔹 Customer Insights<br>
-  🔹 Business Strategy
-</p>
 
 ---
 
