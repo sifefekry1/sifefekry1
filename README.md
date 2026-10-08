@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Seif Fekry</h1>
 
 <h3 align="center">
-  💻 Programmer | 📊 Data Analyst | 🎓 Computer Science Student
+  💻 Programmer | 📊 Data Analysis | 📣 Marketing
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sifefekry1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -14,10 +14,11 @@
 
 <ul>
   <li>🎓 Computer Science Student</li>
+  <li>📊 Specialized in Data Analysis</li>
   <li>💻 Passionate about Programming</li>
-  <li>📊 Interested in Data Analysis</li>
-  <li>📈 Learning SQL, Excel & Power BI</li>
-  <li>🤖 Interested in AI & Data</li>
+  <li>📣 Interested in Marketing</li>
+  <li>📈 Experienced with SQL, Excel & Power BI</li>
+  <li>👑 Business Owner with an interest in Marketing & Business</li>
   <li>🌱 Always learning and improving my skills</li>
 </ul>
 
@@ -49,6 +50,18 @@
 
 ---
 
+<h2>📣 Marketing</h2>
+
+<p>
+  🔹 Digital Marketing<br>
+  🔹 Marketing Analysis<br>
+  🔹 Social Media Marketing<br>
+  🔹 Customer Insights<br>
+  🔹 Business Strategy
+</p>
+
+---
+
 <h2>🎓 Graduation Project</h2>
 
 <p>
@@ -58,7 +71,7 @@
 
 <p>
   <b>My focus:</b>
-  📊 Data Analysis • 🗄️ Database • 🤖 AI • 📈 Data Insights
+  📊 Data Analysis • 🗄️ Database • 💻 System Analysis
 </p>
 
 ---
@@ -66,15 +79,15 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sifefekry1&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifefekry1&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifefekry1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -86,8 +99,8 @@
   🐍 Python for Data Analysis<br>
   🗄️ Advanced SQL<br>
   📈 Power BI<br>
-  💼 Business Analysis<br>
-  🤖 Artificial Intelligence
+  📣 Marketing & Digital Marketing<br>
+  💼 Business Analysis
 </p>
 
 ---
@@ -95,18 +108,5 @@
 <h2>📫 Connect With Me</h2>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
-
-<p align="center">
-  <i>Learning • Building • Improving 🚀</i>
-</p>
+  <a href="https://github.com/sifefekry1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo
